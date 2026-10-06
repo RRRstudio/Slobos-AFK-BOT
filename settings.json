@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Ricsike",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "idiotak32.aternos.me",
+    "port": 54680,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,11 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Tudtad? A kacsák tudnak franciául csak sosem hallod őket",
+        "Itt is Hankórol akarok beszélni de félek hogy kirugnak",
+        "Ha megnyomod az Alt + F4-et akkor kapsz ingyen diát",
+        "Amikor a Médek betörtek Perzsiába akkor az angolok mondhatták volna azt, hogy méd in perzsia",
+        "Minőség, Szeretem, Spar"
       ]
     },
     "chat-log": true,
@@ -78,7 +80,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "jajja",
     "events": {
       "connect": true,
       "disconnect": true,
