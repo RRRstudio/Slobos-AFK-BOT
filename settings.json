@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "idiotak32.aternos.me",
+    "ip": "Idiotak32.aternos.me:54680",
     "port": 54680,
     "version": "1.21.1"
   },
