@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Idiotak32.aternos.me",
+    "ip": "pencilsmelt.aternos.host:54680",
     "port": 54680,
     "version": "1.21.1"
   },
