@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Idiotak32.aternos.me:54680",
+    "ip": "Idiotak32.aternos.me",
     "port": 54680,
     "version": "1.21.1"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "Perzuu"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,11 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Tudtad? A kacsák tudnak franciául csak sosem hallod őket",
-        "Itt is Hankórol akarok beszélni de félek hogy kirugnak",
-        "Ha megnyomod az Alt + F4-et akkor kapsz ingyen diát",
-        "Amikor a Médek betörtek Perzsiába akkor az angolok mondhatták volna azt, hogy méd in perzsia",
-        "Minőség, Szeretem, Spar"
+        "I'm a regular player",
+        "Subscribe to Perzaan Gaming!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
@@ -42,7 +40,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 20,
       "max-interval": 60
     }
@@ -80,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "jajja",
+    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
     "events": {
       "connect": true,
       "disconnect": true,
